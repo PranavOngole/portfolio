@@ -43,18 +43,18 @@ governance, access control, and auditability.
 90M+ records daily with high reliability.  
 
 **Stellantis** · Data Analytics Engineer *(Jun 2024 – Jan 2025)*  
-• Built Power BI dashboards to track testing and program KPIs across 10+ vehicle programs, reducing manual statusreporting time by 12%.
-• Implemented automated data quality checks on battery testing datasets using SQL and Python, reducingdownstream data issues and rework by 25%.
-• Partnered with operations and product teams to define and roll out data quality standards adopted across multiple programs.
-• Performed root-cause analysis on recurring data anomalies, helping teams identify upstream failures and reduce repeat data defects.
+• Built Power BI dashboards to track testing and program KPIs across 10+ vehicle programs, reducing manual statusreporting time by 12%.  
+• Implemented automated data quality checks on battery testing datasets using SQL and Python, reducingdownstream data issues and rework by 25%.  
+• Partnered with operations and product teams to define and roll out data quality standards adopted across multiple programs.  
+• Performed root-cause analysis on recurring data anomalies, helping teams identify upstream failures and reduce repeat data defects.  
 **Archaea Energy** · Data Quality Analyst *(Jul 2022 – Jun 2024)*  
-• Owned data quality processes for operational datasets across 45+ biogas facilities, supporting daily analytics and operational decision-making.
-• Built Python-based validation logic and monitoring dashboards with statistical bounds, reducing manual data checks by 50%.
-• Partnered with operations teams to investigate data issues, document root causes, and update pipelines as systems evolved.
-• Created and maintained centralized documentation and data dictionaries, reducing onboarding time and recurring data definition questions.
+• Owned data quality processes for operational datasets across 45+ biogas facilities, supporting daily analytics and operational decision-making.  
+• Built Python-based validation logic and monitoring dashboards with statistical bounds, reducing manual data checks by 50%.  
+• Partnered with operations teams to investigate data issues, document root causes, and update pipelines as systems evolved.  
+• Created and maintained centralized documentation and data dictionaries, reducing onboarding time and recurring data definition questions.  
 
 **Gillig** · Data Analyst, Vehicle Test Engineering *(Mar 2021 – Jul 2022)*  
-• Analyzed vehicle test data contributing to a 9% improvement in eBus acceleration performance. 
+• Analyzed vehicle test data contributing to a 9% improvement in eBus acceleration performance.   
 • Automated recurring workflows saving ~20 hours/week across the team.
 
 ---
