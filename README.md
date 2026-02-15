@@ -1,6 +1,6 @@
 # Sai Pranav Ongole
 
-**Senior Data Analyst @ Capital One** · Austin, TX · US Citizen
+** Data Analyst @ Capital One** · Austin, TX · US Citizen
 
 I build data systems that scale. SQL, Python, Snowflake, Databricks — I've used them on real problems at real companies processing tens of millions of records daily. I also build things with AI that most data teams haven't figured out yet.
 
