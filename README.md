@@ -32,15 +32,15 @@ workflow   = ["ETL Automation", "AI Agent Pipelines", "LLM Orchestration"]
 
 **Capital One** · Data Analyst *(Oct 2025 – Present)*  
 • Supported pricing compliance and risk monitoring by analyzing millions of daily transactions, helping ensure interest
-rate caps and grandfathered terms were correctly applied across 60M+ customer accounts.
+rate caps and grandfathered terms were correctly applied across 60M+ customer accounts.  
 • Built SQL- and Python-based validation checks to compare internal transaction processing outputs against third-party
-vendor data, catching discrepancies before vendor systems were fully sunset.
+vendor data, catching discrepancies before vendor systems were fully sunset.  
 • Developed automated monitoring and alerting workflows in Snowflake and Databricks to flag data quality issues early,
-reducing downstream reporting errors and manual investigations.
+reducing downstream reporting errors and manual investigations.  
 • Partnered with engineering and risk teams to migrate 100+ production workflows to Unity Catalog, improving data
-governance, access control, and auditability.
+governance, access control, and auditability.  
 • Designed scalable analytical tables and pipelines supporting compliance dashboards and ad-hoc analysis, processing
-90M+ records daily with high reliability.
+90M+ records daily with high reliability.  
 
 **Stellantis** · Data Analytics Engineer *(Jun 2024 – Jan 2025)*  
 • Built Power BI dashboards to track testing and program KPIs across 10+ vehicle programs, reducing manual statusreporting time by 12%.
